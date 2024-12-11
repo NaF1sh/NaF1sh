@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate CSE student with a keen interest 
 
 ## 📈 Coding Activity
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@NaF1sh)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/https://wakatime.com/@NaF1s)
 
 ## 📈 GitHub Stats
 
