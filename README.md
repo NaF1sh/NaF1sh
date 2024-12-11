@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Syed Nafish Shakir
 
-![Gojo Satou](https://media.giphy.com/media/l0HlUQkNuu2AG1yNO/giphy.gif)
+![Gojo Satou](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJpOWRvcXM1ZGU2aGd1cjNnODNnNTZjMXo4dXNmMzNlOGZoMmRwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB2IRTXd07IkcStfwU/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate CSE student with a keen interest in competitive programming (CP) and software development.
 
@@ -25,13 +25,5 @@ Competitive programming is my passion. I spend a lot of time solving problems an
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NaF1sh&show_icons=true&theme=radical)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YourProfile)
-[![Website](https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=google-chrome)](https://your-website.com)
-
----
 
 Thank you for visiting my profile! Have a great day! 😊
