@@ -23,7 +23,7 @@ My current journey involves mastering CP, but I'm also laying the groundwork to 
 ---
 
 ### 🖼️ Favorite Character  
-![Gojo Satoru](https://giphy.com/embed/fB2IRTXd07IkcStfwU)  
+![Gojo Satoru](https://giphy.com/gifs/anime-eyes-manga-fB2IRTXd07IkcStfwU)  
 *The strongest sorcerer with the coolest vibes!*  
 
 ---
