@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Syed Nafish Shakir
 
-![Gojo Satou](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJpOWRvcXM1ZGU2aGd1cjNnODNnNTZjMXo4dXNmMzNlOGZoMmRwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB2IRTXd07IkcStfwU/giphy.gif)
+![Gojo Satou](https://media.giphy.com/media/fB2IRTXd07IkcStfwU/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate CSE student with a keen interest in competitive programming (CP) and software development.
 
