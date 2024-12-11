@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Syed Nafish Shakir
 
-![Gojo Satou](https://media.giphy.com/media/XpT9co3zP8nNP4Nm9A/giphy.gif)
+![Gojo Satou](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFvaDFyaWZwaHM4a3g2MXBxeHIxc2cyeml2bXI1ZnBjMDZsMjI0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB2IRTXd07IkcStfwU/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate CSE student with a keen interest in competitive programming (CP) and software development.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate CSE student with a keen interest 
 
 ## 📈 Coding Activity
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@NaF1s)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NaF1s)
 
 ## 📈 GitHub Stats
 
