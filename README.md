@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Syed Nafish Shakir
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJpOWRvcXM1ZGU2aGd1cjNnODNnNTZjMXo4dXNmMzNlOGZoMmRwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB2IRTXd07IkcStfwU/giphy.webp" width="400" alt="Gojo Satoru">
+<img src="https://i.pinimg.com/originals/9d/00/9c/9d009c8c54200676621393c08607a5e4.gif" width="400" alt="Subaru Natsuki">
 
 ### CSE Student | Competitive Programmer | Aspiring Software Developer
 
@@ -71,7 +71,7 @@ class Developer {
 
 ```
 When I'm not solving algorithms...
-├── 📺 Watching anime (Gojo Satoru is the GOAT 🔵)
+├── 📺 Watching anime (Subaru Natsuki is the GOAT 💙)
 ├── 🎨 Drawing and sketching
 ├── 📚 Reading tech blogs and documentation
 └── 🎮 Gaming and exploring new technologies
@@ -99,14 +99,16 @@ When I'm not solving algorithms...
 
 <div align="center">
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💭 Developer's Motto
+
+*"I'll keep debugging until I get it right, no matter how many tries it takes!"*  
+**- Inspired by Subaru Natsuki**
 
 ### 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/NaF1sh/count.svg)
+![](https://komarev.com/ghpvc/?username=NaF1sh&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-**"Throughout Heaven and Earth, I alone am the honored code."** - Gojo Satoru (probably about clean code)
+---
 
-⭐️ From [NaF1sh](https://github.com/NaF1sh)
+⭐️ From [NaF1sh](https://github.com/NaF1sh) | Made with 💙 and ☕
 
 </div>
